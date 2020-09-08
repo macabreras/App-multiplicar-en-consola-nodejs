@@ -1,0 +1,16 @@
+{
+  "name": "bases_4",
+  "version": "1.0.0",
+  "description": "Está es una aplicación de línea de comandos ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Cabrera",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {}
+}
